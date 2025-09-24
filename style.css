@@ -1,0 +1,123 @@
+header{
+    background-color: #FF7700;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+body{
+    margin: auto;
+    height: 100%;
+}
+.menu-item{
+    color: white;
+    font-weight: 700;
+    font-size: 48px;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+    margin-top: 0;
+    margin-top: 0;
+    display: flex;
+    width: 530px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-img{
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+}
+.abot-text{
+    font-size: 24px;
+    width: 600px;
+}
+
+.about{
+    display: flex;
+    width: 1100px;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.section-title{
+    color: #FE7905;
+    font-size: 100px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+.name{
+    font-size: 24px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 19px;
+
+}
+.price{
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+button{
+    width: 170px;
+    height: 57px;
+    background-color: #FF7700;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: italic;
+}
+.buy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 364px;
+    margin: auto;
+}
+
+article{
+    width: 365px;
+}
+
+.katalog-line{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1300px;
+    margin: auto;
+}
+article img{
+    display: block;
+    margin: auto;
+}
+
+.adr-img{
+    display: block;
+    margin: auto;
+    margin-top: 74px;
+}
+.adr-title{
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 76px;
+    margin-bottom: 76px;
+}
+
+.adr-text{
+    font-size: 36px;
+    text-align: center;
+}
